@@ -2,6 +2,16 @@
 
 An interactive visualization of the classic 12-body counterfeit balance puzzle.
 
+# Let’s Begin…
+
+```
+You’re the realm’s greatest mathematician, but ever since you criticized the Emperor’s tax laws, you’ve been locked in the dungeon.
+
+Luckily for you, one of the Emperor’s governors has been convicted of paying his taxes with a counterfeit coin, which has made its way into the treasury.
+
+Can you earn your freedom by finding the fake?
+```
+
 ## Getting Started
 
 You can view the live demo on my website [here](https://jtrpan.azurewebsites.net), or download the source code and modify it for your machine.
@@ -14,32 +24,10 @@ To run the simulation locally, you will need:
 The lastest vesion of Java.
 ```
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Thanks to 
