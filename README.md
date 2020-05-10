@@ -1,6 +1,10 @@
 # Emperor's Coin
 
-An interactive visualization of the classic 12-body counterfeit balance puzzle. Watch the video that inspired this program here:
+An interactive visualization of the classic 12-body counterfeit balance puzzle. 
+
+Learn more about balance puzzles [here](https://en.wikipedia.org/wiki/Balance_puzzle).
+
+Watch the video that inspired this program here:
 [![COUNTERFEIT-COIN RIDDLE](https://i.ytimg.com/vi/tE2dZLDJSjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=tE2dZLDJSjA)
 
 ## Let’s Begin…
@@ -29,7 +33,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-_Thanks to:_
 * Educator: Jennifer Lu
 * Director: Outis
 * Script Editor: Alex Gendler
