@@ -1,16 +1,15 @@
 # Emperor's Coin
 
-An interactive visualization of the classic 12-body counterfeit balance puzzle.
+An interactive visualization of the classic 12-body counterfeit balance puzzle. Watch the video that inspired this program here:
+[![COUNTERFEIT-COIN RIDDLE](https://i.ytimg.com/vi/tE2dZLDJSjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=tE2dZLDJSjA)
 
-# Let’s Begin…
+## Let’s Begin…
 
-```
 You’re the realm’s greatest mathematician, but ever since you criticized the Emperor’s tax laws, you’ve been locked in the dungeon.
 
 Luckily for you, one of the Emperor’s governors has been convicted of paying his taxes with a counterfeit coin, which has made its way into the treasury.
 
 Can you earn your freedom by finding the fake?
-```
 
 ## Getting Started
 
@@ -21,7 +20,7 @@ You can view the live demo on my website [here](https://jtrpan.azurewebsites.net
 To run the simulation locally, you will need:
 
 ```
-The lastest vesion of Java.
+Java SE 8 or higher
 ```
 
 ## License
@@ -30,4 +29,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks to 
+_Thanks to:_
+* Educator: Jennifer Lu
+* Director: Outis
+* Script Editor: Alex Gendler
+* Associate Producer: Jessica Ruby
+* Content Producer: Gerta Xhelo
