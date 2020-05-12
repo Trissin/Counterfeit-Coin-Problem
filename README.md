@@ -19,6 +19,8 @@ Can you earn your freedom by finding the fake?
 
 You can view the live demo on my website [here](https://jtrpan.azurewebsites.net), or download the source code and modify it for your machine.
 
+### *Live demo added soon!*
+
 ### Prerequisites
 
 To run the simulation locally, you will need:
