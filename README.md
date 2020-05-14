@@ -1,7 +1,9 @@
 # Emperor's Coin
 
 An interactive visualization of the classic 12-body counterfeit balance puzzle. 
-[Demo Image](https://i.gyazo.com/df6670380379cf49da3c422100308150.png)
+
+![Demo Image](https://i.gyazo.com/df6670380379cf49da3c422100308150.png)
+
 Learn more about balance puzzles [here](https://en.wikipedia.org/wiki/Balance_puzzle).
 
 Watch the video that inspired this program by clicking below:
